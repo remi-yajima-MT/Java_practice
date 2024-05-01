@@ -1,4 +1,4 @@
-public class practice[if].java{
+public class practice1-1.java{
     public static void main(String[] args){
         System.out.println(i:"整数値（1~10)を入力してください");
         int num = new java.util.Scanner(System.in).nextInt();
