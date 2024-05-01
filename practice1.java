@@ -1,3 +1,5 @@
+impoot
+
 public class Main {
     public static void main(String[] args){
         //クラスを１つ作成
