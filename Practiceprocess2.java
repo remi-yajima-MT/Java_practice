@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class practice3-1{
+public class Practiceprocess2 {
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
  

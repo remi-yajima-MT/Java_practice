@@ -1,4 +1,4 @@
-public class practice3-2{
+public class practicearray2{
     public static void main(String[] args) {
         // 二次元配列で成績を格納
         int[][] seiseki = {

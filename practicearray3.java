@@ -1,6 +1,6 @@
 import java.util.ArrayList;
  
-public class practice3-3{
+public class practicearray3{
     public static void main(String[] args) {
         // ArrayListにチーム24の名前を追加
         ArrayList<String> team21 = new ArrayList<>();

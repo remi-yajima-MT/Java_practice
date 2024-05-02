@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Practice2-2 {
+public class practicearray1{
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
  
